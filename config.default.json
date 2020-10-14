@@ -1,0 +1,13 @@
+{
+   "owners": [
+      "709534713500401685"
+   ],
+   "database": {
+      "db": "test",
+      "pass": "",
+      "host": "localhost",
+      "user": "root"
+   },
+   "prefix": "+",
+   "token": "SUPER SECRET TOKEN HERE"
+}
