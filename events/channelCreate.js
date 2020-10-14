@@ -1,6 +1,5 @@
 const config = require("../config");
 const Discord = require("discord.js");
-const { user } = require("..");
 
 module.exports = class {
 
